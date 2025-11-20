@@ -108,6 +108,8 @@ Utilization % = AVERAGE(Transactions[Credit_Utilization])
 🔹 Segment analysis (age, gender, city)
 
 🖼️ Dashboard Preview
+<img width="1340" height="745" alt="image" src="https://github.com/user-attachments/assets/62a8aafa-dd2d-4992-a486-08e09c95a8f4" />
+<img width="1336" height="748" alt="image" src="https://github.com/user-attachments/assets/866d3c17-4af9-403d-a7d8-5234d28cb7e7" />
 
 
 📂 Repository Structure
