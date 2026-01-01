@@ -1,4 +1,4 @@
-**💳 Credit Card Financial Dashboard Project
+**Credit Card Financial Dashboard Project**
 SQL • Excel • Power BI**
 
  **Overview**
@@ -42,7 +42,7 @@ Tech Purpose
 
 -Created storytelling layout
 
-** SQL Query**
+**SQL Query**
 **1. Total Monthly Transaction Amount**
 SELECT 
     DATE_FORMAT(transaction_date, '%Y-%m') AS Month,
@@ -69,7 +69,7 @@ WHERE payment_status = 'Late'
 GROUP BY customer_id
 HAVING Late_Payments > 3;
 
-Key DAX Measures (Power BI)
+**Key DAX Measures (Power BI)**
 **1. Total Revenue**
 Total Revenue = SUM(Transactions[Revenue])
 
@@ -149,7 +149,7 @@ Credit_Card_Financial_Dashboard/
 Contributions and suggestions are always welcome.
 
 
-Mob- 9004439112
+**Mob- 9004439112**
 
 **Manish Kumar**
 📧 manishkumar.be19@gmail.com
