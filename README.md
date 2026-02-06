@@ -107,19 +107,24 @@ Utilization % = AVERAGE(Transactions[Credit_Utilization])
 
 **Repository Structure**
 Credit_Card_Financial_Dashboard/
-│
+
 ├── SQL/
 │   └── credit_card_queries.sql
-│
+
+
 ├── Excel/
 │   └── cleaned_dataset.xlsx
-│
+
+
 ├── PowerBI/
 │   └── credit_card_dashboard.pbix
-│
+
+
 ├── Images/
 │   └── dashboard_preview.png
-│
+
+
+
 └── README.md
 
  **What I Learned**
