@@ -1,5 +1,5 @@
 **Credit Card Financial Dashboard Project**
-SQL • Excel • Power BI
+**SQL • Excel • Power BI**
 
  **Overview**
 
