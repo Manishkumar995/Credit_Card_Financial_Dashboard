@@ -6,14 +6,14 @@
 The Credit Card Financial Dashboard is a complete analytics project that converts raw credit card data into easy-to-understand business insights.
 Using SQL, Excel, and Power BI, this dashboard helps track revenue, spending behaviour, and risk indicators in a simple and interactive format.
 
- Tech Stack & Skills
+**Skills**
 Tech Purpose
 -SQL Cleaning, joining, and transforming data
 -Excel Dataset preparation, lookup tables
 -Power BI Dashboard design, DAX, KPIs
 -Data Modelling 	Star schema, relationships
 -ETL Process 	Extract → Transform → Load
- -Workflow (End-to-End)
+-Workflow (End-to-End)
  **SQL – Data Cleaning & Transformation**
 
 -Removed duplicates
